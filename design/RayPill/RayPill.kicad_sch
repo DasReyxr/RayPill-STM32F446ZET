@@ -23867,7 +23867,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 429.26 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -24200,7 +24200,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 95.504 112.776 0)
 			(hide yes)
 			(show_name no)
@@ -26898,7 +26898,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 313.69 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -27222,7 +27222,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 429.26 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -28352,7 +28352,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 387.858 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -28437,7 +28437,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 300.99 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -29545,7 +29545,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 133.35 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -30384,7 +30384,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 442.214 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -31235,7 +31235,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 50.546 112.014 0)
 			(hide yes)
 			(show_name no)
@@ -33554,7 +33554,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 236.22 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -33976,7 +33976,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "GND"
 			(at 257.81 226.06 0)
 			(hide yes)
 			(show_name no)
